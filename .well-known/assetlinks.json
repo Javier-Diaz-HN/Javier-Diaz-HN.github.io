@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.javierdiazhn.micuaderno",
+    "sha256_cert_fingerprints": [
+      "DF:43:2F:10:E7:49:00:CD:57:02:6E:95:4F:C2:32:39:B4:6A:B5:4B:03:34:97:F5:B2:CD:1D:FD:58:79:2D:0C"
+    ]
+  }
+}]
